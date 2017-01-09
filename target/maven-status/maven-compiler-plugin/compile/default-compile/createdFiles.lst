@@ -1,0 +1,7 @@
+com\niit\collabaration\controller\Usercontroller.class
+com\niit\collabaration\DAO\UserDAO.class
+com\niit\collabaration\ApplicationContextConfig\ApplicationContextConfig.class
+com\niit\collabaration\DAOImpl\UserDAOImpl.class
+com\niit\collabaration\controller\IndexController.class
+com\niit\collabaration\model\BaseDomain.class
+com\niit\collabaration\model\User.class
